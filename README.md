@@ -4,7 +4,6 @@ Este projeto consiste no desenvolvimento de um site institucional para a Escola 
 
 
 
-
 <b>Funcionalidades:</b>
 
 . Informações sobre os cursos oferecidos pela escola
